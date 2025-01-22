@@ -5,7 +5,7 @@
 </div>
 
 ## Hi,I'm caofangkuai
-- 📫 Contact Information: caofangkuai2022@gmail.com
+- 📫 Contact Information: caofangkuai2022@gmail.com caofangkuai2022@qq.com
 
 ### Languaues and Tools
 
