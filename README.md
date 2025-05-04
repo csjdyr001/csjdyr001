@@ -12,7 +12,7 @@
 <span > 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/ANDROID-blue" /> 
+  <img src="https://img.shields.io/badge/-Android-blue" /> 
 </span>
 
 ### My GitHub Stats
